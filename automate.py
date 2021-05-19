@@ -28,7 +28,6 @@ options.add_argument("user-data-dir={}\driver_data".format(os.getcwd()))
 driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
 
 driver.get("https://linkedin.com")
-# delete this after every month
 
 # while "1" != input("press 1 when signed in: "):
 #     pass
