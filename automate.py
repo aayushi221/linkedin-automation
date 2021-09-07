@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 #
 #
 #
-# To like other people's post:
+# To like other people's post simply:
 # step 0 : you need chrome for this. Also install modules :
 # pip install selenium && pip install webdriver_manager && pip install tinydb
 
