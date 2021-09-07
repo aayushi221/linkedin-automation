@@ -4,7 +4,7 @@
 
 ## What does it do?
 
-##### It automates the work of accepting connections request using sellnium
+##### It automates the of accepting connection requests using selenium. It is a great tool that is used to lessen our work and be more productive.
 
 ### Tech Stack 📂
 
