@@ -1,6 +1,5 @@
 # LinkedIn Connection Acceptor and Sender😃
 
- ![](https://socialify.git.ci/aayushi221/CARTOONIZATION/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 ## What does it do?
 
